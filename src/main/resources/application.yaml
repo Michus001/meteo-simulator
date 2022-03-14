@@ -1,0 +1,6 @@
+app:
+  key: ${api.key}
+  servers:
+    Prague: https://sarka-prod-iot-server.herokuapp.com/data
+    Chotebor: https://tofu-iot-server.herokuapp.com/meteorological-data
+
